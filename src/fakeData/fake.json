@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "webDesign",
+        "price":25,
+        "image":"https://imgur.com/SB7xtNR"
+    },
+    {
+        "id": "2",
+        "name": "webDevelopment",
+        "price":22,
+        "image":"https://ibb.co/m8LW9Nc"
+    },
+    {
+        "id":"3",
+        "name":"artificial intelligence",
+        "price":45,
+        "image":"https://ibb.co/1f8rKHc"
+    },
+    {
+        "id": "4",
+        "name":"PWA",
+        "price":67,
+        "image":"https://ibb.co/6B2GB8H"
+    },
+    {
+        "id": "5",
+        "name":"Search Engine Optimization",
+        "price":21,
+        "image":"https://ibb.co/CVRQDv3"
+    },
+    {
+        "id":"6",
+        "name":"Digital marketing",
+        "price":12,
+        "image":"https://ibb.co/pJ9FZ56"
+    },
+    {
+        "id":"7",
+        "name":"Data enalysing",
+        "price":35,
+        "image":"https://ibb.co/PGgy1pp"
+    },
+    {
+        "id":"8",
+        "name":"Data entry",
+        "price":34,
+        "image":"https://freeimage.host/i/drxW2R"
+    },
+    {
+        "id":"9",
+        "name":"React JS",
+        "price":42,
+        "image":"https://ibb.co/9HmK1Rs"
+    },
+    {
+        "id":"10",
+        "name":"React native",
+        "price":47,
+        "image":"https://ibb.co/n1nBp6m"
+    },
+    {
+        "id":"11",
+        "name": "Angular",
+        "price":29,
+        "image":"https://ibb.co/42v1F8P"
+    },
+    {
+        "id":"12",
+        "name": "vue js",
+        "price":34,
+        "image":"https://ibb.co/PMpnYRj"
+    }
+]
