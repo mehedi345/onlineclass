@@ -4,11 +4,11 @@ import Header from './components/Header/Header';
 import Course from './components/Course/Course';
 
 function App() {
- 
+
   return (
     <div>
-        <Header/>
-        <Course/>
+      <Header />
+      <Course />
     </div>
   );
 }

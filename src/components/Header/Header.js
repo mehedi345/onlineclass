@@ -17,7 +17,11 @@ const Header = () => {
                         </li>
 
                     </ul>
+                    <form className="form-inline my-2 my-lg-0 ml-auto">
+                        <input className="form-control mr-sm-2 border-rounded " type="search" placeholder="Search your course" aria-label="Search" />
+                        <i class="fas fa-search"></i>
 
+                    </form>
                     <button className="btn btn-outline-success ml-auto">LOG IN</button>
                     <button className="btn btn-primary ml-4">SIGN UP</button>
                 </div>
